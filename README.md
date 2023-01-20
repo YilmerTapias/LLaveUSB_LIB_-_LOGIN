@@ -7,7 +7,6 @@ Se extrae el Numero Identificador Unico de la memoria USB, se genera un archivo 
 para detectar la llave usb es el proceso inverso se identifica la USB y se lee el archivo oculto generado anteriormente luego se descifra con la palabra secreta y se valida si corresponde a la usb en insertada.
 
 ![Capture](https://github.com/YilmerTapias/LLaveUSB_LIB_-_LOGIN/blob/main/Captures/Captura.JPG)
-![Capture](https://github.com/YilmerTapias/LLaveUSB_LIB_-_LOGIN/blob/main/Captures/Captura1.JPG)
 ![Capture](https://github.com/YilmerTapias/LLaveUSB_LIB_-_LOGIN/blob/main/Captures/Captura2.JPG)
 ![Capture](https://github.com/YilmerTapias/LLaveUSB_LIB_-_LOGIN/blob/main/Captures/Captura3.JPG)
 ![Capture](https://github.com/YilmerTapias/LLaveUSB_LIB_-_LOGIN/blob/main/Captures/Captura4.JPG)
